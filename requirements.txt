@@ -1,3 +1,2 @@
 seaborn
 cython
-cython_gsl
